@@ -144,7 +144,7 @@ export default function Home() {
           justifyContent="center"
         >
           <Typography variant="h2" color="#333">
-            Inventory Items
+            Pantry Items
           </Typography>
         </Box>
         <Stack width={800} height={300} spacing={2} overflow="auto">
